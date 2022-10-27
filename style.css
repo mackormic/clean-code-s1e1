@@ -5,24 +5,23 @@ body {
     font-family: Lato, sans-serif;
 }
 
-.aaa {
+.container {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
 
-.aaa img {
+.container img {
     width: 100%;
 }
 
-.aaa .more-inf {
+.container .more-inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.aaa 
-{ 
+.container { 
     text-align: center;
 }
 }
