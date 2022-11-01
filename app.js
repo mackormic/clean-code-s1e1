@@ -167,3 +167,7 @@ for (var i = 0; i < completedTasksHolder.children.length; i++) {
 //prevent creation of empty tasks.
 
 //Change edit to save when you are in edit mode.
+
+alert(
+  "Друзья, накосячил с дэплоем. Но все окмитты сделаны , обидно. вот ссылка на репо  с комитами  https://github.com/mackormic/clean-code-s1e1/commits/clean-code-s1e1"
+);
